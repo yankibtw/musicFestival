@@ -1,0 +1,59 @@
+{
+  "acters": [
+    {
+      "ID": 0,
+      "executor": "Bad Bunny",
+      "genre": "Латинский трэп",
+      "country": "Пуэрто-Рико",
+      "bestMusic": {
+        "title": "Safaera",
+        "year": 2020
+      }
+
+    },
+    {
+      "ID": 1,
+      "executor": "Asti",
+      "genre": "Поп",
+      "country": "Россия",
+      "bestMusic": {
+        "title": "Гармония",
+        "year": 2022
+      }
+
+    },
+    {
+      "ID": 2,
+      "executor": "Kizaru",
+      "genre": "Хип-хоп",
+      "country": "Россия",
+      "bestMusic": {
+        "title": "99 Problems",
+        "year": 2021
+      }
+
+    },
+    {
+      "ID": 3,
+      "executor": "Travis Scott",
+      "genre": "Хип-хоп",
+      "country": "США",
+      "bestMusic": {
+        "title": "Wavy",
+        "year": 2020
+      }
+
+    },
+    {
+      "ID": 4,
+      "executor": "Juice WRLD",
+      "genre": "Поп-рэп",
+      "country": "США",
+      "bestMusic": {
+        "title": "Lucid Dreams",
+        "year": 2018
+      }
+
+    }
+  ]
+}

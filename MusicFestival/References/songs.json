@@ -1,0 +1,40 @@
+﻿{
+  "songs": [
+    {
+      "ID": 0,
+      "title": "Воображай",
+      "artist": "Джон Леннон",
+      "genre": "Поп",
+      "duration": "3:03",
+      "releaseDate": "1971-09-09",
+      "album": {
+        "name": "Воображай",
+        "releaseYear": 1971
+      }
+    },
+    {
+      "ID": 1,
+      "title": "Как в качелях",
+      "artist": "Боб Дилан",
+      "genre": "Фолк-рок",
+      "duration": "6:13",
+      "releaseDate": "1965-07-20",
+      "album": {
+        "name": "Шоссе 61 переизданное",
+        "releaseYear": 1965
+      }
+    },
+    {
+      "ID": 2,
+      "title": "Буги Вандерленд",
+      "artist": "Earth, Wind & Fire",
+      "genre": "Диско",
+      "duration": "4:48",
+      "releaseDate": "1979-05-03",
+      "album": {
+        "name": "Я Есьм",
+        "releaseYear": 1979
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<artists>
+	<artist>
+		<ID>0</ID>
+		<executor>Bad Bunny</executor>
+		<genre>Латинский трэп</genre>
+		<country>Пуэрто-Рико</country>
+		<bestMusic>
+			<title>Safaera</title>
+			<year>2020</year>
+		</bestMusic>
+	</artist>
+	<artist>
+		<ID>1</ID>
+		<executor>Asti</executor>
+		<genre>Поп</genre>
+		<country>Россия</country>
+		<bestMusic>
+			<title>Гармония</title>
+			<year>2022</year>
+		</bestMusic>
+	</artist>
+	<artist>
+		<ID>2</ID>
+		<executor>Kizaru</executor>
+		<genre>Хип-хоп</genre>
+		<country>Россия</country>
+		<bestMusic>
+			<title>99 Problems</title>
+			<year>2021</year>
+		</bestMusic>
+	</artist>
+	<artist>
+		<ID>3</ID>
+		<executor>Travis Scott</executor>
+		<genre>Хип-хоп</genre>
+		<country>США</country>
+		<bestMusic>
+			<title>Wavy</title>
+			<year>2020</year>
+		</bestMusic>
+	</artist>
+	<artist>
+		<ID>4</ID>
+		<executor>Juice WRLD</executor>
+		<genre>Поп-рэп</genre>
+		<country>США</country>
+		<bestMusic>
+			<title>Lucid Dreams</title>
+			<year>2018</year>
+		</bestMusic>
+	</artist>
+</artists>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<songs>
+	<song>
+		<ID>0</ID>
+		<title>Воображай</title>
+		<artist>Джон Леннон</artist>
+		<genre>Поп</genre>
+		<duration>3:03</duration>
+		<releaseDate>1971-09-09</releaseDate>
+		<album>
+			<name>Воображай</name>
+			<releaseYear>1971</releaseYear>
+		</album>
+	</song>
+	<song>
+		<ID>1</ID>
+		<title>Как в качелях</title>
+		<artist>Боб Дилан</artist>
+		<genre>Фолк-рок</genre>
+		<duration>6:13</duration>
+		<releaseDate>1965-07-20</releaseDate>
+		<album>
+			<name>Шоссе 61 переизданное</name>
+			<releaseYear>1965</releaseYear>
+		</album>
+	</song>
+	<song>
+		<ID>2</ID>
+		<title>Буги Вандерленд</title>
+		<artist>Earth, Wind and Fire</artist>
+		<genre>Диско</genre>
+		<duration>4:48</duration>
+		<releaseDate>1979-05-03</releaseDate>
+		<album>
+			<name>Я Есьм</name>
+			<releaseYear>1979</releaseYear>
+		</album>
+	</song>
+</songs>

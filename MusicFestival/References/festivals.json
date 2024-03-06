@@ -1,0 +1,48 @@
+{
+  "festivals": [
+    {
+      "ID": 0,
+      "title": "POP Festival",
+      "genre": "Поп",
+      "fullDateStart": {
+        "day": 3,
+        "month": "Февраль",
+        "year": 2024
+      },
+      "TheСitiesOfTheEvent": "Москва"
+    },
+    {
+      "ID": 1,
+      "title": "VK Fest",
+      "genre": "Развлекательный",
+      "fullDateStart": {
+        "day": 24,
+        "month": "Июнь",
+        "year": 2024
+      },
+      "TheСitiesOfTheEvent": "Москва"
+    },
+    {
+      "ID": 2,
+      "title": "YLETAЙ",
+      "genre": "Поп",
+      "fullDateStart": {
+        "day": 13,
+        "month": "июль",
+        "year": 2024
+      },
+      "TheСitiesOfTheEvent": "Лагуново"
+    },
+    {
+      "ID": 3,
+      "title": "Архстояние",
+      "genre": "Поп",
+      "fullDateStart": {
+        "day": 28,
+        "month": "июль",
+        "year": 2024
+      },
+      "TheСitiesOfTheEvent": "арт-парк «Никола-Ленивец»"
+    }
+  ]
+}

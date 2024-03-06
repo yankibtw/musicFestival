@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<festivals>
+	<festival>
+		<ID>0</ID>
+		<title>POP Festival</title>
+		<genre>Поп</genre>
+		<fullDateStart>
+			<day>3</day>
+			<month>Февраль</month>
+			<year>2024</year>
+		</fullDateStart>
+		<TheСitiesOfTheEvent>Москва</TheСitiesOfTheEvent>
+	</festival>
+	<festival>
+		<ID>1</ID>
+		<title>VK Fest</title>
+		<genre>Развлекательный</genre>
+		<fullDateStart>
+			<day>24</day>
+			<month>Июнь</month>
+			<year>2024</year>
+		</fullDateStart>
+		<TheСitiesOfTheEvent>Москва</TheСitiesOfTheEvent>
+	</festival>
+	<festival>
+		<ID>2</ID>
+		<title>YLETAЙ</title>
+		<genre>Поп</genre>
+		<fullDateStart>
+			<day>13</day>
+			<month>июль</month>
+			<year>2024</year>
+		</fullDateStart>
+		<TheСitiesOfTheEvent>Лагуново</TheСitiesOfTheEvent>
+	</festival>
+	<festival>
+		<ID>3</ID>
+		<title>Архстояние</title>
+		<genre>Поп</genre>
+		<fullDateStart>
+			<day>28</day>
+			<month>июль</month>
+			<year>2024</year>
+		</fullDateStart>
+		<TheСitiesOfTheEvent>арт-парк «Никола-Ленивец»</TheСitiesOfTheEvent>
+	</festival>
+</festivals>
